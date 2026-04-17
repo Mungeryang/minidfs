@@ -5,7 +5,7 @@
 ![ucas-logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD0LpkXqKO5WIQfWEvAb3nGwrxS_AWAyU20g&s)
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD0LpkXqKO5WIQfWEvAb3nGwrxS_AWAyU20g&s" width="100%">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD0LpkXqKO5WIQfWEvAb3nGwrxS_AWAyU20g&s" width="80%">
 </div>
 
 ### 授课教师：中国科学院信息工程研究所 - 黄晶老师、钟进文老师
